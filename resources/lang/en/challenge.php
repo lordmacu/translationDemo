@@ -1,0 +1,1 @@
+<?php return ['join_size_challenge_error_message' => 'There are not enough participants to start the challenge','join_vinculation_error_message' => 'Error joining challenge','join_vinculation_message' => 'Challenge Joined','join_vinculation_success_message' => 'You have joined the challenge correctly',];

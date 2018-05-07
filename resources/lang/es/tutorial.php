@@ -1,0 +1,1 @@
+<?php return ['featured' => 'Destacados','more' => 'Mostrar mas','most_viewed' => 'Los más vistos','related' => 'Relacionados',];

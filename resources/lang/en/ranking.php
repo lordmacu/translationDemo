@@ -1,0 +1,1 @@
+<?php return ['no_ranking' => 'There is no ranking for this game yet','no_ranking_yet' => 'The player ranking for this game is not available yet','ranking_description' => 'Ranking will show the best players on the site, basing their rating obtained on matches and tournaments played within the platform','ranking_page' => 'Ranking TG','score' => 'Score',];

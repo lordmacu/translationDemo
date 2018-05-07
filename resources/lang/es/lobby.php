@@ -1,0 +1,1 @@
+<?php return ['checking _players' => 'Validando jugadores','complete_players' => 'Esperando jugadores','discard_maps' => 'Descartar mapas','discord_join' => 'unirse','enter_your_game' => 'Ingresa a tu Partida','lobby_prizes' => 'Premios','no_captain' => 'No quiero ser capitan','players' => 'jugadores',];

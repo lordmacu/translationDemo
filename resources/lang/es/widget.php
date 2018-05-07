@@ -1,0 +1,1 @@
+<?php return ['connect_profile_game' => 'Conectate a tu perfil de juego','populars' => 'Populares','recent' => 'reciente ','recents' => 'recientes',];

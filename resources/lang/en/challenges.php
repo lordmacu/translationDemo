@@ -1,0 +1,1 @@
+<?php return ['add_challenge' => 'Add Challenge','data_modified_correctly' => 'Information modified correctly','empty_value_stats' => 'Enter stats value','number_winners' => 'Number of winners','payment' => 'Payments','price' => 'Price','question_delete_item' => 'Do you really want to delete this item?','rank' => 'Ranking','value_price' => 'Price Value',];

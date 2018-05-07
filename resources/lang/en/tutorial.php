@@ -1,0 +1,1 @@
+<?php return ['featured' => 'Featured','more' => 'Show more','most_viewed' => 'Most viewed','related' => 'Related',];

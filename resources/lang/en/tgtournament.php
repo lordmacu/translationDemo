@@ -1,0 +1,1 @@
+<?php return ['finalized' => 'Finalized','league' => 'League','need_link__team_to_access' => 'You need to link to team to access','need_to_have_linked_game' => 'you need to have a linked game','tournament_in_grup_face' => 'Tournaments in group face',];

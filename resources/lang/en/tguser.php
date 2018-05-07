@@ -1,0 +1,1 @@
+<?php return ['dont_have_games_asigned' => 'You don\'t have any games assigned','dont_have_this_game' => 'You don\'t have this game linked to your account',];

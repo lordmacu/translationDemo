@@ -1,0 +1,1 @@
+<?php return ['join_existing_team' => 'Join an existing team','no_team_belong' => 'You actually don\'t belong to any team','pending_validations' => 'Pending validations','pick_select_game' => 'Click over the image to select game','select_platform_id' => 'Select Platform ID',];

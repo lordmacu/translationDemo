@@ -1,0 +1,1 @@
+<?php return ['game_not_available_platform' => 'Game not available in the platform','problem_link_account' => 'Problem linking account','stemid_already_used' => 'This Steam ID is already in use','stemid_blocked' => 'Steam ID Blocked','validation_error' => 'Validation Error',];

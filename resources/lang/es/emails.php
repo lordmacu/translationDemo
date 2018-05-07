@@ -1,0 +1,1 @@
+<?php return ['click_here' => 'Click Aquí','email_confirm_text' => 'Para continuar con el proceso de registro, debe confirmar su dirección de correo electrónico.','hello' => 'Hola','please' => 'Por favor',];

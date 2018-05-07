@@ -1,0 +1,1 @@
+<?php return ['six_month_suscription' => 'Suscripción por 6 meses','three_month_suscription' => 'Suscripción por 3 meses',];
